@@ -6,4 +6,4 @@ In this one, the code is completely siloed and we have a proxy server to join th
 
 Consider this a spike. It may change drastically in the future.
 
-See also [broccoli-rails](https://github.com/wagenet/broccoli-rails) for another approach.
+See also [broccoli_rails](https://github.com/wagenet/broccoli_rails) for another approach.
